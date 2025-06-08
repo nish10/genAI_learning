@@ -1,4 +1,4 @@
-# GenAI Learning Workspace
+# OpenAI Learning Workspace
 
 A hands-on workspace for exploring OpenAI’s API, from setup to advanced function calling, optimized for minimal costs and maximum learning.
 
