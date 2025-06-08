@@ -20,7 +20,6 @@ A hands-on workspace for exploring OpenAI’s API, from setup to advanced functi
 
   ```env
   OPENAI_API_KEY=your_openai_api_key_here
-  OPENAI_MODEL=gpt-3.5-turbo
   ```
 * Copy to **.env** and replace with your real key.
 
