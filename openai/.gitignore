@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Version management
+# Ensure the .python-version file is tracked (do NOT ignore it) so pyenv can auto-switch environments.
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
