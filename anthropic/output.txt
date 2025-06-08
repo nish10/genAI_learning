@@ -1,0 +1,12 @@
+🔎 Using model: claude-3-5-haiku-20241022
+
+=== Simple Completion ===
+Here's a fun space fact: On Venus, a day is longer than a year. Venus takes 243 Earth days to complete one rotation on its axis, but only 225 Earth days to orbit the Sun. This means a single day on Venus is longer than its entire year!
+
+=== Streaming Response ===
+Here's a 4-line poem about code:
+
+Lines of logic, dancing bright,
+Syntax weaving patterns tight,
+Algorithms solving puzzles deep,
+Where digital dreams forever leap.

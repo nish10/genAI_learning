@@ -1,0 +1,4 @@
+anthropic           # Anthropic Python SDK
+python-dotenv      # Load .env files
+jupyterlab         # Notebook support
+ipykernel          # Kernel for VS Code notebooks

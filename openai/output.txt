@@ -1,0 +1,18 @@
+Models you can use:
+  - gpt-4-0613
+  - gpt-4
+  - gpt-3.5-turbo
+  - gpt-4o-audio-preview-2025-06-03
+  - gpt-4.1-nano-2025-04-14
+
+Chat response:
+- AI has the potential to revolutionize various industries by automating tasks, increasing efficiency, and improving decision-making processes.
+- AI can enhance our daily lives through personalized recommendations, smart home systems, and advanced healthcare technologies.
+- AI opens up new possibilities for solving complex problems, advancing scientific research, and driving innovation in numerous fields.
+
+Streaming response:
+In lines of code we
+weave the fabric of our dreams
+digital realms breathe
+
+Function call result: {'location': 'Paris', 'weather': 'sunny', 'temperature': '25°C'}
