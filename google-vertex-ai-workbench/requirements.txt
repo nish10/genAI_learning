@@ -1,0 +1,6 @@
+google-cloud-aiplatform
+python-dotenv
+jupyterlab
+ipykernel
+transformers
+torch

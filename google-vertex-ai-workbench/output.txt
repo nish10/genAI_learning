@@ -1,0 +1,8 @@
+
+=== Vertex AI Models in capable-vista-462321-d6 (asia-south1) ===
+
+=== Stopped VM Instances in capable-vista-462321-d6
+- genai-workbench  (status: TERMINATED)
+
+=== Vertex AI Workbench Instances in asia-south1 ===
+No Workbench instances found.
